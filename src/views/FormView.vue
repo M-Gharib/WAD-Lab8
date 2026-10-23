@@ -11,7 +11,7 @@
 
 <label for="role">Role</label>
 <select v-model="role">
-<option value="admin"> Admin </option>
+<option value="admin"> Admin </option> 
 <option value="user"> User </option>
 </select>
 
